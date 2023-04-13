@@ -5,6 +5,8 @@
 *Authors: Anika Nissen, Mareen Wienand, Reinhard Schütte*
 <br>
 
+The questionnaire as PDF, as well as Limesurvey data (.lss) can be retrieved from the ``Questionnaire`` folder.
+
 This project includes the raw data for the prior named paper as .CSV table:  ``Raw Data.csv``
 
 * the data includes N = 109 complete datasets in which students evaluated the financial overview pages of SAP S/4HANA with FIORI, Salesforce, Microsoft Dynamics, and Oracle
